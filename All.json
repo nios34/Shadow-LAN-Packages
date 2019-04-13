@@ -1,0 +1,9 @@
+{
+    "Edition": "190413",
+    "Netcat": {
+        "Anthor": "Nios34",
+        "Version": "190413",
+        "Introduction": "Creat a netcat server to transfer information",
+        "isCanInstall": false
+    }
+}
